@@ -1,0 +1,476 @@
+[
+  {
+    "title": "Overview",
+    "url": "index.html",
+    "section": "Home",
+    "excerpt": "This is heavily work in progress, as the actual mods themselves are."
+  },
+  {
+    "title": "Arcanum",
+    "url": "Enchanting/index.html",
+    "section": "Arcanum",
+    "excerpt": "Enchanting reimagined: your gear never breaks and every enchantment choice matters."
+  },
+  {
+    "title": "Bane of Arthropods V & Smite V & Fire Aspect II",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Bane of Arthropods V & Smite V & Fire Aspect II Swords & axes Same targets as before, tuned for the new balance."
+  },
+  {
+    "title": "Binding & Vanishing Curses",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Binding & Vanishing Curses Removed."
+  },
+  {
+    "title": "Blast Protection IV",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Blast Protection IV Chestplate only Extra blast resistance and less knockback from explosions."
+  },
+  {
+    "title": "Channeling I",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Channeling I Any melee weapon Slows your swing a little, but striking an enemy calls down lightning with a burst of effects and sound."
+  },
+  {
+    "title": "Efficiency V",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Efficiency V Tools Mines a bit faster, and now you must choose between speed, Fortune, or Silk Touch."
+  },
+  {
+    "title": "Enchantments that changed",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "These are still in the game but work differently. Names and levels shown are what you'll see in-game. Enchantment Items What it does now Power → Might V Bow & crossbow Boosts arrow damage for both bows and crossbows.…"
+  },
+  {
+    "title": "Enchantments that were added",
+    "url": "Enchanting/index.html#added",
+    "section": "Arcanum",
+    "excerpt": "These are some additional enchantments that I thought fit the theme. Enchantment Items What it does"
+  },
+  {
+    "title": "Enchantments you won't find anymore",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "These have been removed to keep the pool focused. You won't get them from enchanting tables, loot, or the anvil. Enchantment Why it's gone Unbreaking & Mending No durability to repair, so they're no longer needed.…"
+  },
+  {
+    "title": "Fire Protection IV",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Fire Protection IV Chestplate only Strong fire resistance for chest armor."
+  },
+  {
+    "title": "Frost Walker, Depth Strider, Respiration",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Frost Walker, Depth Strider, Respiration Movement and breathing handled differently by potions and biomes."
+  },
+  {
+    "title": "Impaling & Density",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Impaling & Density Removed."
+  },
+  {
+    "title": "Looting → Scavenger III",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Looting → Scavenger III Swords & axes Hits do a bit more damage from behind and slightly increase gear drops from mobs."
+  },
+  {
+    "title": "Loyalty",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Loyalty All tridents return on their own now."
+  },
+  {
+    "title": "Luck of the Sea",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Luck of the Sea Removed."
+  },
+  {
+    "title": "Multishot → Scattershot III",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Multishot → Scattershot III Crossbow Fires extra projectiles in a tighter spread."
+  },
+  {
+    "title": "Piercing IV & Rending IV",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Piercing IV & Rending IV Swords & axes Help your hits ignore shields or armor (respectively). You can only have one of the two."
+  },
+  {
+    "title": "Power → Might V",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Power → Might V Bow & crossbow Boosts arrow damage for both bows and crossbows."
+  },
+  {
+    "title": "Protection → Wardenspine IV",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Protection → Wardenspine IV Chestplate only Damage reduction from behind, partial thorns, and attackers can be hit with Darkness."
+  },
+  {
+    "title": "Quick Charge V",
+    "url": "Enchanting/index.html#reworked",
+    "section": "Arcanum",
+    "excerpt": "Quick Charge V Crossbow Faster reload and arrows pierce further at higher levels."
+  },
+  {
+    "title": "Sharpness",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Sharpness Replaced by more specialized damage options like Piercing and Rending."
+  },
+  {
+    "title": "Soul Speed",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Soul Speed Removed."
+  },
+  {
+    "title": "Sweeping Edge, Knockback, Punch",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Sweeping Edge, Knockback, Punch Removed to simplify combat choices."
+  },
+  {
+    "title": "Unbreaking & Mending",
+    "url": "Enchanting/index.html#removed",
+    "section": "Arcanum",
+    "excerpt": "Unbreaking & Mending No durability to repair, so they're no longer needed."
+  },
+  {
+    "title": "Folio",
+    "url": "Folio/index.html",
+    "section": "Folio",
+    "excerpt": "I'm gonna be honest, nothing is happening in Folio rn."
+  },
+  {
+    "title": "Gear",
+    "url": "Gear/index.html",
+    "section": "Gear",
+    "excerpt": "I'm gonna be honest, nothing is happening in Gear rn."
+  },
+  {
+    "title": "Blindness",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Blindness Awkward potion + Azure Bluet"
+  },
+  {
+    "title": "Darkness",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Darkness Awkward potion + Sculk"
+  },
+  {
+    "title": "Frost Resistance",
+    "url": "Panacea/index.html#effects",
+    "section": "Panacea",
+    "excerpt": "Frost Resistance You don't freeze. Powder snow and other freezing damage can't hurt you and freeze buildup stops. Frost Resistance potions."
+  },
+  {
+    "title": "Frost Resistance",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Frost Resistance Fire Resistance + Fermented Spider Eye"
+  },
+  {
+    "title": "Glowing",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Glowing Awkward potion + Glow Berries"
+  },
+  {
+    "title": "Haste",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Haste Awkward potion + Honey Bottle (and a Fermented Spider Eye turns it into Mining Fatigue)"
+  },
+  {
+    "title": "Health Boost",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Health Boost Awkward potion + Golden Apple"
+  },
+  {
+    "title": "How to brew them",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "All start at the brewing stand. Redstone extends, Glowstone strengthens where available. You want Brew this Potion of the Coward Turtle Master potion + Fermented Spider Eye Frost Resistance Fire Resistance + Fermented…"
+  },
+  {
+    "title": "Levitation",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Levitation Awkward potion + Shulker Shell"
+  },
+  {
+    "title": "New potions at a glance",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Two new families plus most of the vanilla gaps filled. All can be made at the brewing stand. Potion What it does Variants Potion of the Coward Great Speed boost, but you become Vulnerable Normal, Long, Strong Potion of…"
+  },
+  {
+    "title": "Panacea",
+    "url": "Panacea/index.html",
+    "section": "Panacea",
+    "excerpt": "More potions, a potion cauldron for mixing, and swords you can tip with brew effects."
+  },
+  {
+    "title": "Potion of Blindness / Darkness",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Blindness / Darkness Limits vision Normal / Long"
+  },
+  {
+    "title": "Potion of Frost Resistance",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Frost Resistance Immunity to freezing Normal / Long"
+  },
+  {
+    "title": "Potion of Glowing",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Glowing You glow through walls Normal / Long"
+  },
+  {
+    "title": "Potion of Haste",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Haste Mine and attack faster Normal / Long"
+  },
+  {
+    "title": "Potion of Health Boost",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Health Boost Extra hearts Normal, Long, Strong"
+  },
+  {
+    "title": "Potion of Levitation",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Levitation Float upwards Normal"
+  },
+  {
+    "title": "Potion of Mining Fatigue",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Mining Fatigue The opposite of Haste Normal / Long"
+  },
+  {
+    "title": "Potion of the Coward",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of the Coward Great Speed boost, but you become Vulnerable Normal, Long, Strong"
+  },
+  {
+    "title": "Potion of the Coward",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Potion of the Coward Turtle Master potion + Fermented Spider Eye"
+  },
+  {
+    "title": "Potion of Unluck",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Unluck Worse loot chances Normal"
+  },
+  {
+    "title": "Potion of Wither",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Potion of Wither Withers over time Normal / Long"
+  },
+  {
+    "title": "Shrouded Invisibility",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "Shrouded Invisibility Stronger Invisibility that hides armor better Made from Invisibility + Glowstone"
+  },
+  {
+    "title": "Shrouded Invisibility",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Shrouded Invisibility Invisibility + Glowstone Dust"
+  },
+  {
+    "title": "Sneak + use an empty bottle when 2-3 layers are inside",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "Sneak + use an empty bottle when 2-3 layers are inside Mixes all layers together into a \"Mixed Potion\" that has every effect combined (with a small penalty to…"
+  },
+  {
+    "title": "The potion cauldron",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "A place to mix potions together. It holds up to 3 layers, and the liquid color blends to show what's inside. What you do What happens Use a potion on a cauldron Adds one layer (up to 3). The empty bottle is returned.…"
+  },
+  {
+    "title": "Tipped swords",
+    "url": "Panacea/index.html#tipped",
+    "section": "Panacea",
+    "excerpt": "Dip any sword in a mixed cauldron to tip it. On each solid hit it applies all the stored effects to the target. Charges depend on how long the mixed potion lasts; short mixes give about 4 hits, long ones up to 32."
+  },
+  {
+    "title": "True Sight",
+    "url": "Panacea/index.html#potions",
+    "section": "Panacea",
+    "excerpt": "True Sight Stronger Night Vision Made from Night Vision + Glowstone"
+  },
+  {
+    "title": "True Sight",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "True Sight Night Vision + Glowstone Dust"
+  },
+  {
+    "title": "Two new effects (with more on the way)",
+    "url": "Panacea/index.html#effects",
+    "section": "Panacea",
+    "excerpt": "Effect What it does Where you find it Vulnerability You take 20% more damage per level. Potion of the Coward and its variants, which gives you Speed but makes you frailer. Frost Resistance You don't freeze. Powder snow…"
+  },
+  {
+    "title": "Unluck",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Unluck Luck potion + Fermented Spider Eye (Luck itself is Awkward + Diamond)"
+  },
+  {
+    "title": "Use a potion on a cauldron",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "Use a potion on a cauldron Adds one layer (up to 3). The empty bottle is returned."
+  },
+  {
+    "title": "Use an empty glass bottle while not sneaking",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "Use an empty glass bottle while not sneaking Scoops one layer back out as a normal potion."
+  },
+  {
+    "title": "Use any sword on the mixed cauldron",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "Use any sword on the mixed cauldron Tips the sword. After this it applies the mixed effects on hit until charges run out."
+  },
+  {
+    "title": "Use arrows on the mixed cauldron",
+    "url": "Panacea/index.html#cauldron",
+    "section": "Panacea",
+    "excerpt": "Use arrows on the mixed cauldron Creates tipped arrows with the mixed effects."
+  },
+  {
+    "title": "Vulnerability",
+    "url": "Panacea/index.html#effects",
+    "section": "Panacea",
+    "excerpt": "Vulnerability You take 20% more damage per level. Potion of the Coward and its variants, which gives you Speed but makes you frailer."
+  },
+  {
+    "title": "Wither",
+    "url": "Panacea/index.html#brewing",
+    "section": "Panacea",
+    "excerpt": "Wither Regeneration + Fermented Spider Eye"
+  },
+  {
+    "title": "Progression",
+    "url": "Progression/index.html",
+    "section": "Progression",
+    "excerpt": "I'm gonna be honest, nothing is happening in Progression rn."
+  },
+  {
+    "title": "Puppeteer",
+    "url": "Puppeteer/index.html",
+    "section": "Puppeteer",
+    "excerpt": "Small touches that make your character feel alive."
+  },
+  {
+    "title": "What it does",
+    "url": "Puppeteer/index.html#what-it-is",
+    "section": "Puppeteer",
+    "excerpt": "Puppeteer runs quietly in the background. It adds small character animations that play automatically when something is happening to you. You don't need to equip or enable anything."
+  },
+  {
+    "title": "What you'll notice",
+    "url": "Puppeteer/index.html#example",
+    "section": "Puppeteer",
+    "excerpt": "nothing yet because I'm overworked"
+  },
+  {
+    "title": "A world built for wandering",
+    "url": "Worldgen/index.html#what-it-is",
+    "section": "Vantage",
+    "excerpt": "No new blocks or items, just a much bigger, more varied world to get lost in. Every biome and structure is there to make exploration feel fresh."
+  },
+  {
+    "title": "Biomes",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Obviously I'm not going to list them all, but here are a few highlights by feel: Feels like Places to look for Mountains & highlands Emerald Peaks, Yosemite Cliffs, Granite Cliffs, Desert Cliffs, Savanna Slopes, Scree…"
+  },
+  {
+    "title": "Deep underground",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Deep underground Frostflare Caves, Magma Caves, Mushroom Caves, Spider Caves, Thermal Caves, an Underground Jungle"
+  },
+  {
+    "title": "Desert & mesa",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Desert & mesa Desert Canyons, Crystal Canyons, Painted Mountains, White Mesas, Shifting Dunes, Lush Desert Oases"
+  },
+  {
+    "title": "Forests & groves",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Forests & groves Lavender Forest, Sakura Grove, Moonlight Grove, Cloud Forest, Crystal Rainforest, Hanging Meadow"
+  },
+  {
+    "title": "Mountains & highlands",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Mountains & highlands Emerald Peaks, Yosemite Cliffs, Granite Cliffs, Desert Cliffs, Savanna Slopes, Scree Slopes"
+  },
+  {
+    "title": "Snow & cold",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Snow & cold Frozen Caves & Valleys, Snowy Cherry Groves, Tundra, Ice Marshes, Wintry Forest"
+  },
+  {
+    "title": "Strange & volcanic",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Strange & volcanic Volcanic Craters & Peaks, Warped Mesa, Fire Caves, White Cliffs, Stone Jungle"
+  },
+  {
+    "title": "Structures",
+    "url": "Worldgen/index.html#structures",
+    "section": "Vantage",
+    "excerpt": "Sorry, I don't have any yet :("
+  },
+  {
+    "title": "Swamps, bogs & coasts",
+    "url": "Worldgen/index.html#biomes",
+    "section": "Vantage",
+    "excerpt": "Swamps, bogs & coasts Orchid Swamp, Kelp Thicket, Misty Isles, Tropical Beaches, Diorite Coasts"
+  },
+  {
+    "title": "Vantage",
+    "url": "Worldgen/index.html",
+    "section": "Vantage",
+    "excerpt": "A wilder world with over 100 new biomes to explore and structures hidden across the landscape."
+  }
+]

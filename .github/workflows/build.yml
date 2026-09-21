@@ -1,0 +1,41 @@
+name: Build search index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "wiki/**/*.html"
+      - "wiki/scripts/build-search.mjs"
+      - "wiki/package.json"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-search:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build search index
+        working-directory: wiki
+        run: node scripts/build-search.mjs
+
+      - name: Commit updated search.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- wiki/search.json; then
+            echo "search.json unchanged, nothing to commit"
+          else
+            git add wiki/search.json
+            git commit -m "chore: rebuild search index [skip ci]"
+            git push
+          fi

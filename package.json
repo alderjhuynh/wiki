@@ -1,0 +1,15 @@
+{
+  "name": "auraea-wiki",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static search index builder for auraea.fyi wiki",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-search.mjs",
+    "build:search": "node scripts/build-search.mjs",
+    "watch": "node scripts/build-search.mjs --watch",
+    "dev": "node scripts/build-search.mjs --watch"
+  },
+  "keywords": ["wiki", "static", "search"],
+  "license": "MIT"
+}
