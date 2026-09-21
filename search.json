@@ -6,6 +6,12 @@
     "excerpt": "This is heavily work in progress, as the actual mods themselves are."
   },
   {
+    "title": "Aerodynamics I",
+    "url": "Enchanting/index.html#added",
+    "section": "Arcanum",
+    "excerpt": "Aerodynamics I Chestplate Secondary While airborne and sprinting (or elytra + sprint), you are pushed in your look direction 0.02 per tick. If you are…"
+  },
+  {
     "title": "Arcanum",
     "url": "Enchanting/index.html",
     "section": "Arcanum",
@@ -36,6 +42,18 @@
     "excerpt": "Channeling I Any melee weapon Slows your swing a little, but striking an enemy calls down lightning with a burst of effects and sound."
   },
   {
+    "title": "Dash I",
+    "url": "Enchanting/index.html#added",
+    "section": "Arcanum",
+    "excerpt": "Dash I Leggings Secondary Airborne, tap Shift (rising edge while airborne) to dash 0.6 in your look direction — hold Back (S) at the same time to dash…"
+  },
+  {
+    "title": "Double Jump I",
+    "url": "Enchanting/index.html#added",
+    "section": "Arcanum",
+    "excerpt": "Double Jump I Boots Secondary Mid-air second jump. After leaving ground, press Jump again once you have either fallen 2 blocks or released Jump after becoming…"
+  },
+  {
     "title": "Efficiency V",
     "url": "Enchanting/index.html#reworked",
     "section": "Arcanum",
@@ -51,7 +69,7 @@
     "title": "Enchantments that were added",
     "url": "Enchanting/index.html#added",
     "section": "Arcanum",
-    "excerpt": "These are some additional enchantments that I thought fit the theme. Enchantment Items What it does"
+    "excerpt": "Four new mobility enchantments — Propulsion, Aerodynamics, Dash, Double Jump . All are level I, single-enchant books only, and respect the slot system (one enchant per slot — they replace the vanilla exclusive_set…"
   },
   {
     "title": "Enchantments you won't find anymore",
@@ -66,16 +84,34 @@
     "excerpt": "Fire Protection IV Chestplate only Strong fire resistance for chest armor."
   },
   {
+    "title": "Flow Glide",
+    "url": "Enchanting/index.html#combos",
+    "section": "Arcanum",
+    "excerpt": "Flow Glide Aerodynamics + Dash + Double Jump (full set) + Wavedash boosted While Wavedash-boosted and airborne (not in fluid/elytra), hold Jump . Allows a…"
+  },
+  {
     "title": "Frost Walker, Depth Strider, Respiration",
     "url": "Enchanting/index.html#removed",
     "section": "Arcanum",
     "excerpt": "Frost Walker, Depth Strider, Respiration Movement and breathing handled differently by potions and biomes."
   },
   {
+    "title": "How they combo — Wavedash & glides",
+    "url": "Enchanting/index.html#combos",
+    "section": "Arcanum",
+    "excerpt": "The new enchants are designed to stack. You unlock extra movement only when you wear the full set. Combo Requires How to trigger Effect Wavedash Aerodynamics (chest) + Dash (legs) Dash, then land within ~10 ticks (½ the…"
+  },
+  {
     "title": "Impaling & Density",
     "url": "Enchanting/index.html#removed",
     "section": "Arcanum",
     "excerpt": "Impaling & Density Removed."
+  },
+  {
+    "title": "Jet Glide (Propulsion)",
+    "url": "Enchanting/index.html#combos",
+    "section": "Arcanum",
+    "excerpt": "Jet Glide (Propulsion) Propulsion crossbow + a Firework Rocket in inventory/held Shoot the ground near your feet with the Propulsion crossbow. Rocket must…"
   },
   {
     "title": "Looting → Scavenger III",
@@ -114,6 +150,12 @@
     "excerpt": "Power → Might V Bow & crossbow Boosts arrow damage for both bows and crossbows."
   },
   {
+    "title": "Propulsion I",
+    "url": "Enchanting/index.html#added",
+    "section": "Arcanum",
+    "excerpt": "Propulsion I Crossbow Main Effect Crossbow prefers Firework Rockets over arrows. Firing a rocket tags it arcanum:jet_rocket ; when it explodes within ~3 blocks…"
+  },
+  {
     "title": "Protection → Wardenspine IV",
     "url": "Enchanting/index.html#reworked",
     "section": "Arcanum",
@@ -148,6 +190,12 @@
     "url": "Enchanting/index.html#removed",
     "section": "Arcanum",
     "excerpt": "Unbreaking & Mending No durability to repair, so they're no longer needed."
+  },
+  {
+    "title": "Wavedash",
+    "url": "Enchanting/index.html#combos",
+    "section": "Arcanum",
+    "excerpt": "Wavedash Aerodynamics (chest) + Dash (legs) Dash, then land within ~10 ticks (½ the dash cooldown) while looking down ≥ 60° pitch inside a 5-tick window .…"
   },
   {
     "title": "Folio",
